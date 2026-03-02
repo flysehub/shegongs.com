@@ -10,13 +10,13 @@
 
 群友查询效果图：
 
-<a href="https://nnncha.com/show/154.html" rel="nofollow"><img src="/imgs/imgi_4_1.jpeg" alt="情报局社工库-社工库查档-社工库开盒" border="0" style="width: 380px; max-width: 100%;"></a>
+<a href="https://nnncha.com/show/154.html" rel="nofollow"><img src="/imgs/imgi_4_1.jpeg" alt="情报局社工库-社工库查档-社工库开盒" border="0" style="width:960px;"></a>
 
 ## 查档王社工库
 
 免费社工库新秀查档王社工库，主打身份信息开盒，身份证手机库/带身份证案件详情/全家户籍/车主信息，订阅频道后每日签到免费使用。
 
-<a href="https://t.me/cdw_001bot?start=88" target="_blank"><img src="imgs/chadangwang.png" alt="最新免费社工库" border="0" style="width:380px;"></a>
+<a href="https://t.me/cdw_001bot?start=88" target="_blank"><img src="imgs/35022chaxun.jpeg" alt="最新免费社工库" border="0" style="width:960px;"></a>
 
 免费社工库账号: <a href="https://t.me/cdw_001bot?start=8" target="_blank">@查档王社工库账号</a>，使用方法见[底部](#相关教程)。
 
@@ -25,7 +25,7 @@
 
 暗精灵社工库是一个免费在线社工库查询工具,老牌Telegram开盒社工库机器人、免费猎魔社工库查询工具。暗精灵社工库收录45亿个人信息泄漏数据，查询最新快递数据，身份证开盒社工库，户口查询社工库、QQ群关系等。下载、安装Telegram之后就可以使用(使用时需要积分)，目前只能通过分享社工库或者充值的方式获取积分。
 
-<a href="https://nnncha.com/show/18.html" target="_blank"><img src="imgs/暗精灵社工库.png" alt="暗精灵社工库" border="0" style="width:380px;"></a>
+<a href="https://nnncha.com/show/15.html" target="_blank"><img src="imgs/579b6tongping4408.jpeg" alt="暗精灵社工库" border="0" style="width:960px;"></a>
 
 社工库账号: <a href="https://t.me/AJL05_bot?start=7503613403" target="_blank">直达链接</a>，使用方法见[底部](#相关教程)。
 
@@ -78,7 +78,7 @@
 全球社工库2025智能在线查询系统星盾社工库支持分享来获取积分，超强的快递地址查询功能，微信绑定查询、微博绑定查询等，数据收录较全，真实性自行验证。
 
 社工库账号：<a href="https://nnncha.com/show/25.html" target="_blank">@qbjhkjSGKbot</a>。
-
+<a href="https://nnncha.com/show/15.html" target="_blank"><img src="imgs/dingwei.png" alt="暗精灵社工库" border="0" style="width:960px;"></a>
 ## 黑盒社工库机器人
 
 免费社工库telegram查询工具，手机号社工库/游戏开户/微信号社工库/手机定位社工库，黑盒社工库包含数据量比较全的一个社工库，这里不对社工库返回的数据真实性多做评价，请自行鉴别~
